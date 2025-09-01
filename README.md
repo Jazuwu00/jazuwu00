@@ -3,8 +3,7 @@
 ---
 
 ### 🔭 Front-End Developer passionate about building beautiful and functional web applications.
-
-- 💡 Constantly learning and improving  
+  
 - ⚛️ Focused on modern technologies like React & TypeScript  
 
 ---
