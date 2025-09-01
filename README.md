@@ -4,7 +4,11 @@
 
 ### 🔭 Front-End Developer passionate about building beautiful and functional web applications.
   
-- ⚛️ Focused on modern technologies like React & TypeScript  
+- ⚛️ Focused on technologies like React & TypeScript  
+
+---
+
+See my <a href="https://jazuwu00.github.io/">Web page</a> :)
 
 ---
 
